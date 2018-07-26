@@ -1,7 +1,7 @@
 
 MUSIC = {
   :taylor_Swift => ["You Belong With Me", "Burn", "Our Song"]
-  :tmagine_Dragons => ["Radioactive", "Demons", "It's Time"]
+  :imagine_Dragons => ["Radioactive", "Demons", "It's Time"]
   :one_Direction => ["What Makes You Beautiful", "Magic", "I Would"]
 }
 
