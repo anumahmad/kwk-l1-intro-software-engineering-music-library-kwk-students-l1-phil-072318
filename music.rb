@@ -1,7 +1,7 @@
 
 MUSIC = {
   :Taylor_Swift => ["You Belong With Me", "Burn", "Our Song"]
-  :}Imagine_Dragons => ["Radioactive", "Demons", "It's Time"]
+  :Imagine_Dragons => ["Radioactive", "Demons", "It's Time"]
   :One_Direction => ["What Makes You Beautiful", "Magic", "I Would"]
 }
 
@@ -9,6 +9,7 @@ MUSIC = {
 def list_artists
   puts MUSIC.each.keys
 end
+list_artists
 # This method should accept a hash as an argument.
 
 #2. Define a method named `list_songs`. This method should use the `each_value` method to iterate over the music library hash and print out the name of the songs in the library.
