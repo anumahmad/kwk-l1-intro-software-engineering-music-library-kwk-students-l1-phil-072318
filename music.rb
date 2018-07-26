@@ -1,6 +1,7 @@
 
 MUSIC = {
-  
+  :Taylor_Swift => ["You Belong With Me", "Burn", "Our Song"]
+  :Imagine_Dragons => ["Radioactive", "Demons", ]
 }
 
 #1. Define a method named `list_artists`. This method should use the `each_key` method to iterate over the hash and return all the artists (the keys)
